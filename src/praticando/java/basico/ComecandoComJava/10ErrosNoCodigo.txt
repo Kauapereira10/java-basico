@@ -1,0 +1,12 @@
+Existem 10 erros na Claa Erros.java:
+
+1 - Erro de ponto e vírgula
+2 - Erro na assinatura do main
+3 - String não fechada
+4 - Tipo incompatível
+5 - Ponto e vírgula faltando
+6 - Operador errado no if
+7 - Variável duplicada
+8 - Variável não declarada
+9 - Ponto e vírgula faltando novamente
+10 - Algo faltando na primeira linha
