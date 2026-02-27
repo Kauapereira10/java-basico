@@ -1,4 +1,4 @@
-package praticando.java.basico.ComecandoComJava;
+package com.kaua.praticando.java.basico.comecando;
 
 public class HelloWorld {
 

@@ -1,4 +1,4 @@
-package praticando.java.basico
+package com.kaua.praticando.java.basico.comecando
 
 public class TesteErros {
 
